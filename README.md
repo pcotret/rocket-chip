@@ -1,4 +1,4 @@
-Rocket Chip Generator :rocket: [![Build Status](https://travis-ci.org/chipsalliance/rocket-chip.svg?branch=master)](https://travis-ci.org/chipsalliance/rocket-chip)
+Rocket Chip Generator - ` v1.5_shadowstack` branch :rocket: [![Build Status](https://travis-ci.org/chipsalliance/rocket-chip.svg?branch=master)](https://travis-ci.org/chipsalliance/rocket-chip)
 =====================
 
 This repository contains the Rocket chip generator necessary to instantiate
